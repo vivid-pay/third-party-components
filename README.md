@@ -1,4 +1,4 @@
-# base-components
+# third-party-components
 
 Part of **Vivid Pay**; see the [platform](https://github.com/vivid-pay/platform) repo for the vision and roadmap.
 
@@ -8,7 +8,7 @@ are not secrets.
 
 ## Usage
 ```bash
-cd ~/Projects/base-components
+cd ~/Projects/third-party-components
 docker compose up -d            # start everything
 docker compose up -d postgres   # start just one service
 docker compose down             # stop (data kept in volumes)

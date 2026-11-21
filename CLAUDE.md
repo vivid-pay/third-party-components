@@ -1,4 +1,4 @@
-# base-components
+# third-party-components
 
 Shared local infrastructure for Vivid Pay (docker compose: Postgres today; brokers, identity and
 observability later). Local development only: the credentials here are not secrets.
